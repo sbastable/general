@@ -1,0 +1,1 @@
+sudo cp /etc/X11/xorg.conf.d/99-fbdevhdmi.conf /etc/X11/xorg.conf.d/99-fbdev.conf

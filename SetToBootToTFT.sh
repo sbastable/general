@@ -1,0 +1,1 @@
+sudo cp /etc/X11/xorg.conf.d/99-fbdevtft.conf /etc/X11/xorg.conf.d/99-fbdev.conf
